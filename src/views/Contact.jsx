@@ -6,7 +6,7 @@ function Contact() {
       <div className="contact-info">
         <img
           className="profile-img"
-          src="../public/profile.png"
+          src="../profile.png"
           alt="profile image"
         />
         <h1>Contact me!</h1>
