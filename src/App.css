@@ -589,12 +589,12 @@ li {
     bottom: 2.6rem;
   }
   .about {
-    font-size: 1rem;
+    font-size: 1.3rem;
     overflow-y: scroll;
-    padding-top: 0px;
+    padding-top: 100px;
   }
   .about-description{
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
   .contact {
     overflow-y: scroll;
@@ -604,7 +604,7 @@ li {
   }
   .contact-info p {
     width: 95%;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
   .back-home-btn {
     display: none;
