@@ -396,10 +396,9 @@ li {
 .contact {
   padding-top: 80px;
   margin: auto;
-  color: white;
-  height: 1000px;
+  color: white;  
   width: 90%;
-  height: 100dvh;
+  height: 100vh;
   position: relative;
 }
 
