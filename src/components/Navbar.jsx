@@ -43,7 +43,7 @@ function NavBar() {
                 CONTACT
               </NavLink>
             </li>
-            <img src="/userLogo.jpg" alt="user logo" className="user-logo" />
+            
           </ul>
         </div>
       </nav>

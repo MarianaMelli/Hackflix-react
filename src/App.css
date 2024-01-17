@@ -71,11 +71,7 @@ li {
   letter-spacing: 3px;
   text-shadow: 2px 2px 5px #ff0000;
 }
-.user-logo {
-  width: 30px;
-  object-fit: contain;
-  margin-left: 5px;
-}
+
 .banner {
   color: whitesmoke;
   object-fit: contain;
@@ -544,12 +540,8 @@ li {
   }
   .nav-sublist li .navLink {
     font-size: 0.8rem;
-    
   }
-  .user-logo {
-    width: 20px;
-    
-  }
+
   .banner-title {
     font-size: 2.7rem;
   }
