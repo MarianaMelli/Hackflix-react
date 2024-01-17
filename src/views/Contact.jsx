@@ -4,11 +4,7 @@ function Contact() {
   return (
     <div className="contact">
       <div className="contact-info">
-        <img
-          className="profile-img"
-          src="../profile.png"
-          alt="profile image"
-        />
+        <img className="profile-img" src="../profile.png" alt="profile image" />
         <h1>Contact me!</h1>
         <p>Hello! my name is Mariana Melli. I am a Full Stack Developer.</p>
         <p>
@@ -24,8 +20,10 @@ function Contact() {
           <a href="https://github.com/MarianaMelli" target="_blank">
             <i className="fa-brands fa-github"></i>
           </a>
-          <a href="../public/cv.pdf" target="_blank">
-            {" "}
+          <a
+            href="https://drive.google.com/file/d/18F9qHDpp0wqxd54xtFtwffFFYcb1IDdV/view?usp=sharing"
+            target="_blank"
+          >
             <i className="fa-regular fa-file-pdf"></i>
           </a>
           <a href="mailto:mmelli.dev@gmail.com">
