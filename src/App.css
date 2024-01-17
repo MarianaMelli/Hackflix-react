@@ -50,7 +50,7 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.6rem;
+  padding: 1rem;
 }
 
 .nav-sublist {
@@ -59,7 +59,7 @@ li {
 }
 .nav-sublist li {
   display: inline-block;
-  padding: 5px;
+  padding: 2px;
 }
 
 .nav-sublist li .navLink {
@@ -540,11 +540,11 @@ li {
   }
 
   .nav-sublist {
-    margin-left: 2.8rem;
+    margin-left: 2.5rem;
   }
   .nav-sublist li .navLink {
     font-size: 0.8rem;
-    margin: 0 1px 0 1px;
+    /* margin: 0 1px 0 1px; */
   }
   .user-logo {
     width: 20px;
