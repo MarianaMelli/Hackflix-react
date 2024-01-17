@@ -31,7 +31,7 @@ function Search() {
     <>
       <div className="search">
         <h1 className="search-title">Explore movies by title...</h1>
-        <form action="" className="search-form">
+        <form className="search-form">
           
           <input
             type="text"
