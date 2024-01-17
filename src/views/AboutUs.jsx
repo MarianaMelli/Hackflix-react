@@ -11,7 +11,7 @@ function AboutUs() {
         </p>
         <br />
         <p>
-          This web application allows users to stream movies and access detailed
+          This web application allows users to stream movie trailers and access detailed
           information about them.
         </p>
         <p>
