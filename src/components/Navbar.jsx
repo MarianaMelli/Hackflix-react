@@ -35,7 +35,7 @@ function NavBar() {
             </li>
             <li>
               <NavLink to="/about-us" className="navLink">
-                ABOUT US
+                ABOUT 
               </NavLink>
             </li>
             <li>
