@@ -6,7 +6,6 @@
 
 .app {
   background-color: #111;
-  
 }
 li {
   list-style: none;
@@ -199,7 +198,6 @@ li {
   align-items: center;
   color: whitesmoke;
   opacity: 0.8;
-  
 }
 .footer .logo {
   font-family: "Shadows Into Light";
@@ -345,7 +343,6 @@ li {
   height: 50px;
   margin-top: 50px;
   padding: 10px;
-  
 }
 
 .movie-not-found {
@@ -401,7 +398,7 @@ li {
 }
 
 .contact {
-  padding-top: 80px;  
+  padding-top: 80px;
   margin: auto;
   color: white;
   height: 1000px;
@@ -498,7 +495,7 @@ li {
   transform-origin: bottom left;
 }
 
-.error-page{
+.error-page {
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -506,7 +503,7 @@ li {
   padding-top: 9rem;
 }
 
-.error-msg{
+.error-msg {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -516,24 +513,23 @@ li {
   margin-bottom: 2rem;
 }
 
-.hackflix-error{
+.hackflix-error {
   font-family: "Shadows Into Light";
-  font-weight: bold;  
+  font-weight: bold;
   color: red;
 }
 
-@media(max-width:1080px){
-  .error-page{
+@media (max-width: 1080px) {
+  .error-page {
     flex-direction: column;
-    
   }
-  .error-msg{
+  .error-msg {
     flex-direction: column;
     font-size: 2rem;
     text-align: center;
     margin-top: 3rem;
   }
-  .error-img{
+  .error-img {
     width: 95%;
   }
 }
@@ -542,11 +538,15 @@ li {
   .nav-logo {
     font-size: 1.5rem;
   }
+
+  .nav-sublist {
+    margin-left: 3rem;
+  }
   .nav-sublist li .navLink {
     font-size: 0.8rem;
     margin: 0 1px 0 1px;
   }
-  .user-logo{
+  .user-logo {
     width: 20px;
     margin-left: 2px;
   }
@@ -624,10 +624,9 @@ li {
     border: 0;
     color: whitesmoke;
   }
-  .search-input{
+  .search-input {
     width: 80vw;
   }
- 
 }
 
 @media (min-width: 721px) {
