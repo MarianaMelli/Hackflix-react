@@ -144,7 +144,6 @@ li {
   color: whitesmoke;
 }
 .movies-container {
-  /* padding: 20px; */
   width: 90%;
   margin: auto;
   display: flex;
@@ -207,7 +206,7 @@ li {
 }
 
 .movie-detail {
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -314,7 +313,7 @@ li {
   transition: all 0.2s;
 }
 .search {
-  height: 100vh;
+  height: 100dvh;
   overflow-y: scroll;
 }
 
@@ -384,7 +383,7 @@ li {
   padding-top: 150px;
   margin: auto;
   width: 90%;
-  height: 100vh;
+  height: 100dvh;
   position: relative;
 }
 
@@ -399,7 +398,7 @@ li {
   color: white;
   height: 1000px;
   width: 90%;
-  height: 100vh;
+  height: 100dvh;
   position: relative;
 }
 
@@ -593,7 +592,7 @@ li {
     overflow-y: scroll;
     padding-top: 100px;
   }
-  .about-description{
+  .about-description {
     font-size: 1.2rem;
   }
   .contact {
